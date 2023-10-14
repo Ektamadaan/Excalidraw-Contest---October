@@ -1,0 +1,26 @@
+.top_bar{
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top_left{
+    border: 1px solid rgba(128, 128, 128, 0.781);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+}
+.top_middle{
+    border: 1px solid rgba(128, 128, 128, 0.781);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px 3px rgba(128, 128, 128, 0.171);
+}
+#pic{
+    padding-right: 20px;
+}
